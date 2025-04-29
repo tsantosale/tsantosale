@@ -1,4 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou a Alessandra Torres.
+
+🌐 Desenvolvedora front-end <br>
+📚 Atualmente estudando JavaScript
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsantosale&layout=compact&theme=dark)
+<div>
+  <a href="https://www.linkedin.com/in/alessandra-torres-43661157/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/ale.storres/"><image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
 
 <!--
 **tsantosale/tsantosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
