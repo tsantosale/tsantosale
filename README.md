@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Alessandra Torres.
 
 🌐 Desenvolvedora front-end <br>
-📚 Atualmente estudando JavaScript
+😍 Gosto de transformar ideias em soluções! No front-end consigo conectar o visual com a funcionalidade e entregar soluções que agregam valor no dia a dia de quem acessa <br>
+📚 Atualmente estudando React
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsantosale&layout=compact&theme=dark)
 <div>
